@@ -105,7 +105,6 @@ body {
   height: 600px;
   margin: 0 auto;
   margin-top: 30px;
-  border-radius: 15px;
   box-shadow: 0px 0px 9px 5px #607D8B;
   border: 4px solid #607D8B;
 
@@ -139,7 +138,6 @@ body {
 main {
   min-height: 100%;
   padding: 25px;
-  border-radius: 12px;
 
   background-image: linear-gradient(
     to bottom,
